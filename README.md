@@ -1,3 +1,0 @@
-This is an LLM project tailored specifically for cricket related text understanding and generation.
-The most unique feature is the CricGPT which is a chatbot specifically for cricket related queries.The chatbot is able to answer questions from the dataset provided.
-The website also also other features such as player profiles,match highlights videos,team details,statistics,analysis etc...
